@@ -30,7 +30,7 @@ const artwork = {
       "Long curved face"
     ],
     [
-      "img-0163.jpg",
+      "img-0163.jpg?v=1906067",
       "Antlered giraffe head"
     ],
     [
@@ -80,7 +80,7 @@ const artwork = {
       "Striped belly with fins"
     ],
     [
-      "img-0178.jpg",
+      "img-0178.jpg?v=efa3078",
       "Dark armored torso"
     ],
     [
@@ -100,7 +100,7 @@ const artwork = {
       "Rib cage and spine"
     ],
     [
-      "img-0182.jpg",
+      "img-0182.jpg?v=293ff53",
       "String instrument"
     ],
     [
